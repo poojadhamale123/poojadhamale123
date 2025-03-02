@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pooja Dhamale
-- 🌱 I’m currently learning Automation testing
+- 🌱 I’m currently working in Automation testing
 - 📫 I am working in Paptronics pvt limited as Manual Tester
 
 <!---
